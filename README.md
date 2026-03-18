@@ -56,7 +56,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [Proof-of-Guardrail in AI Agents and What (Not) to Trust from It](http://arxiv.org/abs/2603.05786v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.05786v1)
   [![GitHub](https://img.shields.io/badge/GitHub-Repo-success)](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)
-  [![Website](https://img.shields.io/badge/Website-Not%20Found-lightgrey)](#) **(2026-03-06)**
+  [![Website](https://img.shields.io/badge/Website-Project-green)](https://saharalabsai.github.io/proof-of-guardrail/) **(2026-03-06)**
 
 + [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](http://arxiv.org/abs/2603.00902v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.00902v1)
