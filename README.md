@@ -131,4 +131,3 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 - This list currently focuses on papers returned by the ArXiv query keyword **`openclaw`**.
 - `GitHub` and `Website` links are attached only when explicitly discoverable from paper metadata/abstract text.
-- If you want, I can run a second pass to manually verify each paper page and fill more `Website` links.
