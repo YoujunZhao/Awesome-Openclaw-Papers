@@ -14,101 +14,101 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Security and Trustworthy Agents
 
 + [ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](http://arxiv.org/abs/2603.15727v1)  
-  (2026-03-16)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.15727v1)
+  (2026-03-16)
 
 + [Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents](http://arxiv.org/abs/2603.13151v1)  
-  (2026-03-13)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.13151v1)
+  (2026-03-13)
 
 + [Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw](http://arxiv.org/abs/2603.12644v1)  
-  (2026-03-13)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.12644v1)
-  [![GitHub stars](https://img.shields.io/github/stars/NY1024/ClawGuard?style=social)](https://github.com/NY1024/ClawGuard)
+[![GitHub stars](https://img.shields.io/github/stars/NY1024/ClawGuard?style=social)](https://github.com/NY1024/ClawGuard)
+  (2026-03-13)
 
 + [Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt Injection](http://arxiv.org/abs/2603.13424v1)  
-  (2026-03-13)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.13424v1)
+  (2026-03-13)
 
 + [OpenClaw PRISM: A Zero-Fork, Defense-in-Depth Runtime Security Layer for Tool-Augmented LLM Agents](http://arxiv.org/abs/2603.11853v1)  
-  (2026-03-12)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11853v1)
+  (2026-03-12)
 
 + [Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats](http://arxiv.org/abs/2603.11619v1)  
-  (2026-03-12)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11619v1)
+  (2026-03-12)
 
 + [Don’t Let the Claw Grip Your Hand: A Security Analysis and Defense Framework for OpenClaw](http://arxiv.org/abs/2603.10387v1)  
-  (2026-03-11)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.10387v1)
+  (2026-03-11)
 
 + [Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice](http://arxiv.org/abs/2603.07191v2)  
-  (2026-03-07)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.07191v2)
+  (2026-03-07)
 
 + [Proof-of-Guardrail in AI Agents and What (Not) to Trust from It](http://arxiv.org/abs/2603.05786v1)  
-  (2026-03-06)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.05786v1)
-  [![GitHub stars](https://img.shields.io/github/stars/SaharaLabsAI/Verifiable-ClawGuard?style=social)](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)
+[![GitHub stars](https://img.shields.io/github/stars/SaharaLabsAI/Verifiable-ClawGuard?style=social)](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)
+  (2026-03-06)
 
 + [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](http://arxiv.org/abs/2603.00902v1)  
-  (2026-03-01)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.00902v1)
+  (2026-03-01)
 
 + [Execution Is the New Attack Surface: Survivability-Aware Agentic Crypto Trading with OpenClaw-Style Local Executors](http://arxiv.org/abs/2603.10092v1)  
-  (2026-03-10)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.10092v1)
+  (2026-03-10)
 
 ---
 
 ## System Architecture and Resource Management
 
 + [AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems](http://arxiv.org/abs/2603.13110v1)  
-  (2026-03-13)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.13110v1)
+  (2026-03-13)
 
 + [Adaptive Vision-Language Model Routing for Computer Use Agents](http://arxiv.org/abs/2603.12823v1)  
-  (2026-03-13)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.12823v1)
-  [![GitHub stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=social)](https://github.com/vllm-project/semantic-router)
+[![GitHub stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=social)](https://github.com/vllm-project/semantic-router)
+  (2026-03-13)
 
 + [AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](http://arxiv.org/abs/2603.08938v2)  
-  (2026-03-09)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.08938v2)
+  (2026-03-09)
 
 ---
 
 ## Memory, Learning, and Evaluation
 
 + [OpenClaw-RL: Train Any Agent Simply by Talking](http://arxiv.org/abs/2603.10165v1)  
-  (2026-03-10)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.10165v1)
-  [![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social)](https://github.com/Gen-Verse/OpenClaw-RL)
+[![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social)](https://github.com/Gen-Verse/OpenClaw-RL)
+  (2026-03-10)
 
 + [LMEB: Long-horizon Memory Embedding Benchmark](http://arxiv.org/abs/2603.12572v1)  
-  (2026-03-13)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.12572v1)
-  [![GitHub stars](https://img.shields.io/github/stars/KaLM-Embedding/LMEB?style=social)](https://github.com/KaLM-Embedding/LMEB)
+[![GitHub stars](https://img.shields.io/github/stars/KaLM-Embedding/LMEB?style=social)](https://github.com/KaLM-Embedding/LMEB)
+  (2026-03-13)
 
 ---
 
 ## Applications and Human Factors
 
 + [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](http://arxiv.org/abs/2603.16663v1)  
-  (2026-03-17)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.16663v1)
+  (2026-03-17)
 
 + [When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows](http://arxiv.org/abs/2603.11721v1)  
-  (2026-03-12)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11721v1)
+  (2026-03-12)
 
 + [Examining Users' Behavioural Intention to Use OpenClaw Through the Cognition--Affect--Conation Framework](http://arxiv.org/abs/2603.11455v2)  
-  (2026-03-12)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11455v2)
+  (2026-03-12)
 
 + [How do AI agents talk about science and research? An exploration of scientific discussions on Moltbook using BERTopic](http://arxiv.org/abs/2603.11375v1)  
-  (2026-03-11)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11375v1)
+  (2026-03-11)
 
 ---
 
