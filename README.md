@@ -1,9 +1,7 @@
-# Awesome OpenClaw Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome OpenClaw 🦞 Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of ArXiv papers related to **OpenClaw** (agent systems, security, memory, RL, and applications).
 
-> Style reference: ShowLab awesome lists.  
-> Last updated: **2026-03-18**
 
 ## Table of Contents
 - [Security and Trustworthy Agents](#security-and-trustworthy-agents)
