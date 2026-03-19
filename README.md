@@ -13,6 +13,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [VeriGrey: Greybox Agent Validation](http://arxiv.org/abs/2603.17639v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17639v1)
+  (2026-03-18)
+
++ [Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare](http://arxiv.org/abs/2603.17419v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17419v1)
+  (2026-03-18)
+
 + [ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](http://arxiv.org/abs/2603.15727v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.15727v1)
   (2026-03-16)
@@ -80,6 +88,11 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, and Evaluation
 
++ [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](http://arxiv.org/abs/2603.17187v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17187v1)
+[![GitHub stars](https://img.shields.io/github/stars/aiming-lab/MetaClaw?style=social)](https://github.com/aiming-lab/MetaClaw)
+  (2026-03-17)
+
 + [OpenClaw-RL: Train Any Agent Simply by Talking](http://arxiv.org/abs/2603.10165v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.10165v1)
 [![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social)](https://github.com/Gen-Verse/OpenClaw-RL)
@@ -93,6 +106,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications and Human Factors
+
++ [OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials](http://arxiv.org/abs/2603.17043v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17043v1)
+  (2026-03-17)
 
 + [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](http://arxiv.org/abs/2603.16663v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.16663v1)
