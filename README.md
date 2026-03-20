@@ -13,6 +13,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation](http://arxiv.org/abs/2603.18762v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.18762v1)
+  (2026-03-19)
+
 + [VeriGrey: Greybox Agent Validation](http://arxiv.org/abs/2603.17639v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17639v1)
   (2026-03-18)
