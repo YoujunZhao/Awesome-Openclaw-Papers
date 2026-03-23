@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance](http://arxiv.org/abs/2603.19974v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.19974v1)
+  (2026-03-20)
+
 + [ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation](http://arxiv.org/abs/2603.18762v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.18762v1)
   (2026-03-19)
