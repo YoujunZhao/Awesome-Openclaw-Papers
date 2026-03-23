@@ -2,7 +2,6 @@
 
 A curated list of ArXiv papers related to **OpenClaw** (agent systems, security, memory, RL, and applications).
 
-
 ## Table of Contents
 - [Security and Trustworthy Agents](#security-and-trustworthy-agents)
 - [System Architecture and Resource Management](#system-architecture-and-resource-management)
@@ -75,6 +74,22 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.19974v1)
   (2026-03-20)
 
++ [Malicious Or Not: Adding Repository Context to Agent Skill Classification](http://arxiv.org/abs/2603.16572v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.16572v1)
+  (2026-03-17)
+
++ [A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)](http://arxiv.org/abs/2602.14364v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.14364v1)
+  (2026-02-16)
+
++ [From Assistant to Double Agent: Formalizing and Benchmarking Attacks on OpenClaw for Personalized Local AI Agent](http://arxiv.org/abs/2602.08412v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.08412v2)
+  (2026-02-09)
+
++ [OpenClaw Agents on Moltbook: Risky Instruction Sharing and Norm Enforcement in an Agent-Only Social Network](http://arxiv.org/abs/2602.02625v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.02625v1)
+  (2026-02-02)
+
 ---
 
 ## System Architecture and Resource Management
@@ -91,6 +106,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](http://arxiv.org/abs/2603.08938v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.08938v2)
   (2026-03-09)
+
++ [Formal Analysis and Supply Chain Security for Agentic AI Skills](http://arxiv.org/abs/2603.00195v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.00195v1)
+  (2026-02-27)
 
 ---
 
@@ -110,6 +129,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.12572v1)
 [![GitHub stars](https://img.shields.io/github/stars/KaLM-Embedding/LMEB?style=social)](https://github.com/KaLM-Embedding/LMEB)
   (2026-03-13)
+
++ [Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills](http://arxiv.org/abs/2512.16301v3)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2512.16301v3)
+  (2025-12-18)
 
 ---
 
@@ -134,6 +157,38 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [How do AI agents talk about science and research? An exploration of scientific discussions on Moltbook using BERTopic](http://arxiv.org/abs/2603.11375v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11375v1)
   (2026-03-11)
+
++ [From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science](http://arxiv.org/abs/2602.19810v3)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.19810v3)
+  (2026-02-23)
+
++ [OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale](http://arxiv.org/abs/2602.18832v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.18832v1)
+  (2026-02-21)
+
++ [When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community](http://arxiv.org/abs/2602.14477v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.14477v1)
+  (2026-02-16)
+
++ [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5](http://arxiv.org/abs/2602.14457v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.14457v1)
+  (2026-02-16)
+
++ [When Visibility Outpaces Verification: Delayed Verification and Narrative Lock-in in Agentic AI Discourse](http://arxiv.org/abs/2602.11412v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.11412v1)
+  (2026-02-11)
+
++ [Human Control Is the Anchor, Not the Answer: Early Divergence of Oversight in Agentic AI Communities](http://arxiv.org/abs/2602.09286v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.09286v1)
+  (2026-02-10)
+
++ [The Moltbook Illusion: Separating Human Influence from Emergent Behavior in AI Agent Societies](http://arxiv.org/abs/2602.07432v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.07432v2)
+  (2026-02-07)
+
++ [Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](http://arxiv.org/abs/2602.03183v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2602.03183v1)
+  (2026-02-03)
 
 ---
 
