@@ -71,6 +71,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.10092v1)
   (2026-03-10)
 
++ [Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance](http://arxiv.org/abs/2603.19974v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.19974v1)
+  (2026-03-20)
+
 ---
 
 ## System Architecture and Resource Management
