@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [When Convenience Becomes Risk: A Semantic View of Under-Specification in Host-Acting Agents](http://arxiv.org/abs/2603.21231v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.21231v1)
+  (2026-03-22)
+
 + [Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance](http://arxiv.org/abs/2603.19974v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.19974v1)
   (2026-03-20)
@@ -97,6 +101,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## System Architecture and Resource Management
+
++ [StreamingClaw Technical Report](http://arxiv.org/abs/2603.22120v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.22120v1)
+  (2026-03-23)
 
 + [AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems](http://arxiv.org/abs/2603.13110v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.13110v1)
