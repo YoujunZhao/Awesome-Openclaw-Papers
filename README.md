@@ -1,13 +1,6 @@
 # Awesome OpenClaw 🦞 Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![English](https://img.shields.io/badge/Language-English-blue)](./README.md) [![中文](https://img.shields.io/badge/语言-中文-red)](./README.zh-CN.md)
-
 A curated list of ArXiv papers related to **OpenClaw** (agent systems, security, memory, RL, and applications).
-
-> Default language: **English**. Click the button above to switch to Chinese.
-
-## Multi-Channel Note
-OpenClaw is **not Telegram-only**. Once connected through OpenClaw channels/plugins, the same assistant workflows can run across multiple messaging apps (e.g., Telegram, WhatsApp, Discord, Signal, Slack, and others configured in your deployment).
 
 ## Table of Contents
 - [Security and Trustworthy Agents](#security-and-trustworthy-agents)
