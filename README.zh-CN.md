@@ -2,14 +2,14 @@
 
 [![English](https://img.shields.io/badge/Language-English-blue)](./README.md) [![中文](https://img.shields.io/badge/语言-中文-red)](./README.zh-CN.md)
 
-A curated list of ArXiv papers related to **OpenClaw** (agent systems, security, memory, RL, and applications).
+一个围绕 **OpenClaw** 的 arXiv 论文清单（涵盖智能体系统、安全、记忆、强化学习与应用）。
 
-> Default language: **English**. Click the button above to switch to Chinese.
+> 默认语言：**English**。点击上方按钮可切换到中文。
 
-## Multi-Channel Note
-OpenClaw is **not Telegram-only**. Once connected through OpenClaw channels/plugins, the same assistant workflows can run across multiple messaging apps (e.g., Telegram, WhatsApp, Discord, Signal, Slack, and others configured in your deployment).
+## 多渠道说明
+OpenClaw **并不只支持 Telegram**。通过 OpenClaw 的 channels/plugins 接入后，同一套助手能力可以运行在多个消息平台（如 Telegram、WhatsApp、Discord、Signal、Slack，以及你已配置的其他渠道）。
 
-## Table of Contents
+## 目录
 - [Security and Trustworthy Agents](#security-and-trustworthy-agents)
 - [System Architecture and Resource Management](#system-architecture-and-resource-management)
 - [Memory, Learning, and Evaluation](#memory-learning-and-evaluation)
