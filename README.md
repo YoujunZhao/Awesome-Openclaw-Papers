@@ -13,7 +13,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Security and Trustworthy Agents
 
 + [Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution](http://arxiv.org/abs/2603.23064v1)  
-  arXiv: http://arxiv.org/abs/2603.23064v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.23064v1)
   (2026-03-24)
 
 + [When Convenience Becomes Risk: A Semantic View of Under-Specification in Host-Acting Agents](http://arxiv.org/abs/2603.21231v1)  
@@ -151,7 +151,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Applications and Human Factors
 
 + [Emergence of Fragility in LLM-based Social Networks: the Case of Moltbook](http://arxiv.org/abs/2603.23279v1)  
-  arXiv: http://arxiv.org/abs/2603.23279v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.23279v1)
   (2026-03-24)
 
 + [OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials](http://arxiv.org/abs/2603.17043v1)  
