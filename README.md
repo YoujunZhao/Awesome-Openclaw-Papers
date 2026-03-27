@@ -154,6 +154,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Applications and Human Factors
 
++ [Automating Computational Chemistry Workflows via OpenClaw and Domain-Specific Skills](http://arxiv.org/abs/2603.25522v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.25522v1)
+  (2026-03-26)
+
 + [Emergence of Fragility in LLM-based Social Networks: the Case of Moltbook](http://arxiv.org/abs/2603.23279v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.23279v1)
   (2026-03-24)
