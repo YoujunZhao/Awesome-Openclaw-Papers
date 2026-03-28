@@ -40,8 +40,8 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17419v1)
   (2026-03-18)
 
-+ [ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](http://arxiv.org/abs/2603.15727v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.15727v1)
++ [ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](http://arxiv.org/abs/2603.15727v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.15727v2)
   (2026-03-16)
 
 + [Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents](http://arxiv.org/abs/2603.13151v1)  
@@ -106,8 +106,8 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## System Architecture and Resource Management
 
-+ [StreamingClaw Technical Report](http://arxiv.org/abs/2603.22120v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.22120v1)
++ [StreamingClaw Technical Report](http://arxiv.org/abs/2603.22120v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.22120v2)
   (2026-03-23)
 
 + [AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems](http://arxiv.org/abs/2603.13110v1)  
@@ -141,8 +141,8 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 [![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social)](https://github.com/Gen-Verse/OpenClaw-RL)
   (2026-03-10)
 
-+ [LMEB: Long-horizon Memory Embedding Benchmark](http://arxiv.org/abs/2603.12572v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.12572v1)
++ [LMEB: Long-horizon Memory Embedding Benchmark](http://arxiv.org/abs/2603.12572v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.12572v2)
 [![GitHub stars](https://img.shields.io/github/stars/KaLM-Embedding/LMEB?style=social)](https://github.com/KaLM-Embedding/LMEB)
   (2026-03-13)
 
@@ -166,12 +166,12 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17043v1)
   (2026-03-17)
 
-+ [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](http://arxiv.org/abs/2603.16663v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.16663v1)
++ [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](http://arxiv.org/abs/2603.16663v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.16663v2)
   (2026-03-17)
 
-+ [When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows](http://arxiv.org/abs/2603.11721v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11721v1)
++ [When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows](http://arxiv.org/abs/2603.11721v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.11721v2)
   (2026-03-12)
 
 + [Examining Users' Behavioural Intention to Use OpenClaw Through the Cognition--Affect--Conation Framework](http://arxiv.org/abs/2603.11455v2)  
