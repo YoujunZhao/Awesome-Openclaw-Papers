@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [Clawed and Dangerous: Can We Trust Open Agentic Systems?](http://arxiv.org/abs/2603.26221v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.26221v1)
+  (2026-03-27)
+
 + [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](http://arxiv.org/abs/2603.24414v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.24414v1)
   (2026-03-25)
