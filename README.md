@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework](http://arxiv.org/abs/2603.27517v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.27517v1)
+  (2026-03-29)
+
 + [Clawed and Dangerous: Can We Trust Open Agentic Systems?](http://arxiv.org/abs/2603.26221v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.26221v1)
   (2026-03-27)
@@ -110,6 +114,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## System Architecture and Resource Management
 
++ [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](http://arxiv.org/abs/2603.26997v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.26997v1)
+  (2026-03-27)
+
 + [StreamingClaw Technical Report](http://arxiv.org/abs/2603.22120v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.22120v2)
   (2026-03-23)
@@ -157,6 +165,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications and Human Factors
+
++ ["What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents](http://arxiv.org/abs/2603.28551v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.28551v1)
+  (2026-03-30)
+
++ [Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders](http://arxiv.org/abs/2603.27104v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.27104v1)
+  (2026-03-28)
 
 + [Automating Computational Chemistry Workflows via OpenClaw and Domain-Specific Skills](http://arxiv.org/abs/2603.25522v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.25522v1)
