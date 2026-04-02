@@ -174,6 +174,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Applications and Human Factors
 
++ [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](http://arxiv.org/abs/2604.00518v1)  
+  arXiv: http://arxiv.org/abs/2604.00518v1
+  2026-04-01
+
 + [Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders](http://arxiv.org/abs/2603.27104v1)  
   arXiv: http://arxiv.org/abs/2603.27104v1
   2026-03-28
