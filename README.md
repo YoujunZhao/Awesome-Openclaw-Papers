@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [ClawSafety: "Safe" LLMs, Unsafe Agents](https://arxiv.org/abs/2604.01438v1)  
+  arXiv: https://arxiv.org/abs/2604.01438v1
+  2026-04-01
+
 + ["What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents](http://arxiv.org/abs/2603.28551v2)  
   arXiv: http://arxiv.org/abs/2603.28551v2
   2026-03-30
@@ -122,6 +126,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## System Architecture and Resource Management
 
++ [OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching](https://arxiv.org/abs/2604.01708v1)  
+  arXiv: https://arxiv.org/abs/2604.01708v1
+  2026-04-02
+
++ [Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning](https://arxiv.org/abs/2604.00344v1)  
+  arXiv: https://arxiv.org/abs/2604.00344v1
+  2026-04-01
+
 + [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](http://arxiv.org/abs/2603.26997v1)  
   arXiv: http://arxiv.org/abs/2603.26997v1
   2026-03-27
@@ -151,6 +163,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, and Evaluation
 
++ [Hierarchical Memory Orchestration for Personalized Persistent Agents](https://arxiv.org/abs/2604.01670v1)  
+  arXiv: https://arxiv.org/abs/2604.01670v1
+  2026-04-02
+
 + [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](http://arxiv.org/abs/2603.17187v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2603.17187v1)
 [![GitHub stars](https://img.shields.io/github/stars/aiming-lab/MetaClaw?style=social)](https://github.com/aiming-lab/MetaClaw)
@@ -173,6 +189,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications and Human Factors
+
++ [AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487v1)  
+  arXiv: https://arxiv.org/abs/2604.01487v1
+  2026-04-01
 
 + [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](http://arxiv.org/abs/2604.00518v1)  
   arXiv: http://arxiv.org/abs/2604.00518v1
