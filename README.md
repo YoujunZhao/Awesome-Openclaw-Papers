@@ -13,19 +13,19 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Security and Trustworthy Agents
 
 + [ClawSafety: "Safe" LLMs, Unsafe Agents](https://arxiv.org/abs/2604.01438v1)  
-  arXiv: https://arxiv.org/abs/2604.01438v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01438v1)
   2026-04-01
 
 + ["What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents](https://arxiv.org/abs/2603.28551v2)  
-  arXiv: https://arxiv.org/abs/2603.28551v2
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.28551v2)
   2026-03-30
 
 + [A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework](https://arxiv.org/abs/2603.27517v1)  
-  arXiv: https://arxiv.org/abs/2603.27517v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.27517v1)
   2026-03-29
 
 + [SafeClaw-R: Towards Safe and Secure Multi-Agent Personal Assistants](https://arxiv.org/abs/2603.28807v1)  
-  arXiv: https://arxiv.org/abs/2603.28807v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.28807v1)
   2026-03-28
 
 + [Clawed and Dangerous: Can We Trust Open Agentic Systems?](https://arxiv.org/abs/2603.26221v1)  
@@ -127,15 +127,15 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## System Architecture and Resource Management
 
 + [OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching](https://arxiv.org/abs/2604.01708v1)  
-  arXiv: https://arxiv.org/abs/2604.01708v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01708v1)
   2026-04-02
 
 + [Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning](https://arxiv.org/abs/2604.00344v1)  
-  arXiv: https://arxiv.org/abs/2604.00344v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00344v1)
   2026-04-01
 
 + [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](https://arxiv.org/abs/2603.26997v1)  
-  arXiv: https://arxiv.org/abs/2603.26997v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26997v1)
   2026-03-27
 
 + [StreamingClaw Technical Report](https://arxiv.org/abs/2603.22120v2)  
@@ -164,7 +164,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Memory, Learning, and Evaluation
 
 + [Hierarchical Memory Orchestration for Personalized Persistent Agents](https://arxiv.org/abs/2604.01670v1)  
-  arXiv: https://arxiv.org/abs/2604.01670v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01670v1)
   2026-04-02
 
 + [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://arxiv.org/abs/2603.17187v1)  
@@ -191,15 +191,15 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Applications and Human Factors
 
 + [AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487v1)  
-  arXiv: https://arxiv.org/abs/2604.01487v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01487v1)
   2026-04-01
 
 + [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](https://arxiv.org/abs/2604.00518v1)  
-  arXiv: https://arxiv.org/abs/2604.00518v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00518v1)
   2026-04-01
 
 + [Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders](https://arxiv.org/abs/2603.27104v1)  
-  arXiv: https://arxiv.org/abs/2603.27104v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.27104v1)
   2026-03-28
 
 + [Automating Computational Chemistry Workflows via OpenClaw and Domain-Specific Skills](https://arxiv.org/abs/2603.25522v1)  
