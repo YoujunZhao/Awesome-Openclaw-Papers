@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw](https://arxiv.org/abs/2604.04759v1)  
+  arXiv: https://arxiv.org/abs/2604.04759v1
+  2026-04-06
+
 + [A Systematic Security Evaluation of OpenClaw and Its Variants](https://arxiv.org/abs/2604.03131v1)  
   arXiv: https://arxiv.org/abs/2604.03131v1
   2026-04-03
@@ -129,6 +133,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## System Architecture and Resource Management
+
++ [VisionClaw: Always-On AI Agents through Smart Glasses](https://arxiv.org/abs/2604.03486v1)  
+  arXiv: https://arxiv.org/abs/2604.03486v1
+  2026-04-03
 
 + [OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching](https://arxiv.org/abs/2604.01708v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01708v1)
