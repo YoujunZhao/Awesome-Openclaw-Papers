@@ -78,7 +78,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 + [Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw](https://arxiv.org/abs/2603.12644v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12644v1)
-[![GitHub stars](https://img.shields.io/github/stars/NY1024/ClawGuard?style=social)](https://github.com/NY1024/ClawGuard)
+  [![GitHub stars](https://img.shields.io/github/stars/NY1024/ClawGuard?style=social)](https://github.com/NY1024/ClawGuard)
   (2026-03-13)
 
 + [Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt Injection](https://arxiv.org/abs/2603.13424v1)  
@@ -103,7 +103,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 + [Proof-of-Guardrail in AI Agents and What (Not) to Trust from It](https://arxiv.org/abs/2603.05786v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.05786v1)
-[![GitHub stars](https://img.shields.io/github/stars/SaharaLabsAI/Verifiable-ClawGuard?style=social)](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)
+  [![GitHub stars](https://img.shields.io/github/stars/SaharaLabsAI/Verifiable-ClawGuard?style=social)](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)
   (2026-03-06)
 
 + [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](https://arxiv.org/abs/2603.00902v1)  
@@ -160,7 +160,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 + [Adaptive Vision-Language Model Routing for Computer Use Agents](https://arxiv.org/abs/2603.12823v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12823v1)
-[![GitHub stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=social)](https://github.com/vllm-project/semantic-router)
+  [![GitHub stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=social)](https://github.com/vllm-project/semantic-router)
   (2026-03-13)
 
 + [AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v2)  
@@ -181,17 +181,17 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 + [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://arxiv.org/abs/2603.17187v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17187v1)
-[![GitHub stars](https://img.shields.io/github/stars/aiming-lab/MetaClaw?style=social)](https://github.com/aiming-lab/MetaClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/aiming-lab/MetaClaw?style=social)](https://github.com/aiming-lab/MetaClaw)
   (2026-03-17)
 
 + [OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.10165v1)
-[![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social)](https://github.com/Gen-Verse/OpenClaw-RL)
+  [![GitHub stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social)](https://github.com/Gen-Verse/OpenClaw-RL)
   (2026-03-10)
 
 + [LMEB: Long-horizon Memory Embedding Benchmark](https://arxiv.org/abs/2603.12572v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12572v2)
-[![GitHub stars](https://img.shields.io/github/stars/KaLM-Embedding/LMEB?style=social)](https://github.com/KaLM-Embedding/LMEB)
+  [![GitHub stars](https://img.shields.io/github/stars/KaLM-Embedding/LMEB?style=social)](https://github.com/KaLM-Embedding/LMEB)
   (2026-03-13)
 
 + [Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills](https://arxiv.org/abs/2512.16301v3)  
