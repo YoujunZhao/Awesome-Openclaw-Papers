@@ -159,6 +159,11 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, and Evaluation
 
++ [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://arxiv.org/abs/2604.08377v1)  
+  arXiv: https://arxiv.org/abs/2604.08377v1
+  GitHub: https://github.com/AMAP-ML/SkillClaw
+  2026-04-09
+
 + [ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces](https://arxiv.org/abs/2604.05172v1)  
   arXiv: https://arxiv.org/abs/2604.05172v1
   2026-04-06
