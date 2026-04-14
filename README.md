@@ -123,6 +123,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## System Architecture and Resource Management
 
++ [SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering](https://arxiv.org/abs/2604.11548v1)  
+  arXiv: https://arxiv.org/abs/2604.11548v1
+  2026-04-13
+
 + [AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent](https://arxiv.org/abs/2604.06296v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06296v1)
   2026-04-07
@@ -167,6 +171,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, and Evaluation
 
++ [Knowledge Compounding: An Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework](https://arxiv.org/abs/2604.11243v1)  
+  arXiv: https://arxiv.org/abs/2604.11243v1
+  2026-04-13
+
 + [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://arxiv.org/abs/2604.08377v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08377v1)
   [![GitHub stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social)](https://github.com/AMAP-ML/SkillClaw)
@@ -198,6 +206,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications and Human Factors
+
++ [Governance by Design: A Parsonian Institutional Architecture for Internet-Wide Agent Societies](https://arxiv.org/abs/2604.11337v1)  
+  arXiv: https://arxiv.org/abs/2604.11337v1
+  2026-04-13
 
 + [AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01487v1)
