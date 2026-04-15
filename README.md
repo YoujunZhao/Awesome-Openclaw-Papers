@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security and Trustworthy Agents
 
++ [Beyond Static Sandboxing: Learned Capability Governance for Autonomous AI Agents](https://arxiv.org/abs/2604.11839v1)  
+  arXiv: https://arxiv.org/abs/2604.11839v1
+  2026-04-12
+
 + [BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning](https://arxiv.org/abs/2604.09378v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09378v1)
   2026-04-10
@@ -127,6 +131,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   arXiv: https://arxiv.org/abs/2604.11548v1
   2026-04-13
 
++ [ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents](https://arxiv.org/abs/2604.10096v1)  
+  arXiv: https://arxiv.org/abs/2604.10096v1
+  2026-04-11
+
 + [AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent](https://arxiv.org/abs/2604.06296v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06296v1)
   2026-04-07
@@ -211,6 +219,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   arXiv: https://arxiv.org/abs/2604.11337v1
   2026-04-13
 
++ [Emergent decentralized regulation in a purely synthetic society](https://arxiv.org/abs/2604.06199v1)  
+  arXiv: https://arxiv.org/abs/2604.06199v1
+  2026-03-13
+
 + [AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01487v1)
   2026-04-01
@@ -229,8 +241,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [Emergence of Fragility in LLM-based Social Networks: the Case of Moltbook](https://arxiv.org/abs/2603.23279v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.23279v1)
   2026-03-24
++ [Large-Scale Analysis of Persuasive Content on Moltbook](https://arxiv.org/abs/2603.18349v2)  
+  arXiv: https://arxiv.org/abs/2603.18349v2
+  2026-03-18
 + [OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials](https://arxiv.org/abs/2603.17043v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17043v1)
+  2026-03-17
++ [Social Simulacra in the Wild: AI Agent Communities on Moltbook](https://arxiv.org/abs/2603.16128v2)  
+  arXiv: https://arxiv.org/abs/2603.16128v2
   2026-03-17
 + [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](https://arxiv.org/abs/2603.16663v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16663v2)
