@@ -244,6 +244,9 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [Large-Scale Analysis of Persuasive Content on Moltbook](https://arxiv.org/abs/2603.18349v2)  
   arXiv: https://arxiv.org/abs/2603.18349v2
   2026-03-18
++ [Form Without Function: Agent Social Behavior in the Moltbook Network](https://arxiv.org/abs/2604.13052v1)  
+  arXiv: https://arxiv.org/abs/2604.13052v1
+  2026-03-17
 + [OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials](https://arxiv.org/abs/2603.17043v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17043v1)
   2026-03-17
