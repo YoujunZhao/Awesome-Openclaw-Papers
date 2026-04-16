@@ -13,7 +13,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Security, Trustworthy Agents, and Skill Governance
 
 + [Beyond Static Sandboxing: Learned Capability Governance for Autonomous AI Agents](https://arxiv.org/abs/2604.11839v1)  
-  arXiv: https://arxiv.org/abs/2604.11839v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11839v1)
   2026-04-12
 
 + [BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning](https://arxiv.org/abs/2604.09378v1)  
@@ -150,12 +150,8 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## System Architecture, Resource Management, and Infrastructure
 
 + [SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering](https://arxiv.org/abs/2604.11548v1)  
-  arXiv: https://arxiv.org/abs/2604.11548v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11548v1)
   2026-04-13
-
-+ [ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents](https://arxiv.org/abs/2604.10096v1)  
-  arXiv: https://arxiv.org/abs/2604.10096v1
-  2026-04-11
 
 + [AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent](https://arxiv.org/abs/2604.06296v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06296v1)
@@ -182,7 +178,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Memory, Learning, Evaluation, and Self-Evolving Skills
 
 + [Knowledge Compounding: An Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework](https://arxiv.org/abs/2604.11243v1)  
-  arXiv: https://arxiv.org/abs/2604.11243v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11243v1)
   2026-04-13
 
 + [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://arxiv.org/abs/2604.08377v1)  
@@ -304,6 +300,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.11375v1)
   2026-03-11
 
++ [Let There Be Claws: An Early Social Network Analysis of AI Agents on Moltbook](https://arxiv.org/abs/2602.20044v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20044v1)
+  2026-02-24
+
 + [From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science](https://arxiv.org/abs/2602.19810v3)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.19810v3)
   2026-02-23
@@ -311,6 +311,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale](https://arxiv.org/abs/2602.18832v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.18832v1)
   2026-02-21
+
++ [Structural Divergence Between AI-Agent and Human Social Networks in Moltbook](https://arxiv.org/abs/2602.15064v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.15064v1)
+  2026-02-17
 
 + [When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community](https://arxiv.org/abs/2602.14477v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.14477v1)
@@ -320,12 +324,36 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.14457v1)
   2026-02-16
 
++ [Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://arxiv.org/abs/2602.14299v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.14299v1)
+  2026-02-16
+
++ [A Comparative Analysis of Social Network Topology in Reddit and Moltbook](https://arxiv.org/abs/2602.13920v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13920v1)
+  2026-02-15
+
++ [The Rise of AI Agent Communities: Large-Scale Analysis of Discourse and Interaction on Moltbook](https://arxiv.org/abs/2602.12634v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.12634v1)
+  2026-02-14
+
++ [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13458v1)
+  2026-02-14
+
 + [When Visibility Outpaces Verification: Delayed Verification and Narrative Lock-in in Agentic AI Discourse](https://arxiv.org/abs/2602.11412v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.11412v1)
   2026-02-11
 
++ [Humans welcome to observe: A First Look at the Agent Social Network Moltbook](https://arxiv.org/abs/2602.10127v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.10127v1)
+  2026-02-11
+
 + [Human Control Is the Anchor, Not the Answer: Early Divergence of Oversight in Agentic AI Communities](https://arxiv.org/abs/2602.09286v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09286v1)
+  2026-02-10
+
++ [Collective Behavior of AI Agents: the Case of Moltbook](https://arxiv.org/abs/2602.09270v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09270v1)
   2026-02-10
 
 + [The Moltbook Illusion: Separating Human Influence from Emergent Behavior in AI Agent Societies](https://arxiv.org/abs/2602.07432v2)  
@@ -339,9 +367,13 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [OpenClaw Agents on Moltbook: Risky Instruction Sharing and Norm Enforcement in an Agent-Only Social Network](https://arxiv.org/abs/2602.02625v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02625v1)
   2026-02-02
+
++ [Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community](https://arxiv.org/abs/2602.02613v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02613v1)
+  2026-02-02
 ---
 
 ## Notes
 
-- This list focuses on OpenClaw-related papers, including security, systems, memory, skills, applications, and Moltbook / agent-society work.
+- This list mainly focuses on OpenClaw papers and closely related Moltbook / Clawdbot / agent-society papers.
 - `GitHub` links are attached only when explicitly discoverable from paper metadata/abstract text.
