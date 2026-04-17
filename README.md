@@ -240,12 +240,16 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01708v1)
   2026-04-02
 
-+ [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](https://arxiv.org/abs/2604.00518v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00518v1)
++ [Claw4Science: A Dataset and Platform for the OpenClaw Scientific Agent Ecosystem](https://doi.org/10.64898/2026.03.30.715118)  
+  GitHub: https://github.com/bajwa82mna/claw4science
   2026-04-01
 
 + [AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01487v1)
+  2026-04-01
+
++ [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](https://arxiv.org/abs/2604.00518v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00518v1)
   2026-04-01
 
 + [Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders](https://arxiv.org/abs/2603.27104v1)  
@@ -268,6 +272,9 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.18349v2)
   2026-03-18
 
++ [Agentic Modelling Pipeline: Reproducible Rapid Stormwater Modelling Management System with OpenClaw](https://doi.org/10.31223/x5f47g)  
+  2026-03-17
+
 + [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](https://arxiv.org/abs/2603.16663v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16663v2)
   2026-03-17
@@ -288,6 +295,9 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06199v1)
   2026-03-13
 
++ [OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild](https://doi.org/10.20944/preprints202603.1060.v1)  
+  2026-03-13
+
 + [When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows](https://arxiv.org/abs/2603.11721v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.11721v2)
   2026-03-12
@@ -303,6 +313,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [Let There Be Claws: An Early Social Network Analysis of AI Agents on Moltbook](https://arxiv.org/abs/2602.20044v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20044v1)
   2026-02-24
+
++ [Moltbook Observatory (2026): Playground to Super Highway in the Autonomy Era – Measuring Representation Lag in Tool-Using Agentic Ecosystems](https://doi.org/10.21203/rs.3.rs-8971396/v1)  
+  GitHub: https://github.com/kelkalot/moltbook-observatory-paper
+  2026-02-27
 
 + [From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science](https://arxiv.org/abs/2602.19810v3)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.19810v3)
