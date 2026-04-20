@@ -177,6 +177,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, Evaluation, and Self-Evolving Skills
 
++ [Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX](https://arxiv.org/abs/2604.14858v1)  
+  arXiv: https://arxiv.org/abs/2604.14858v1
+  2026-04-16
+
 + [Knowledge Compounding: An Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework](https://arxiv.org/abs/2604.11243v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11243v1)
   2026-04-13
