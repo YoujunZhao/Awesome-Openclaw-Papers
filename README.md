@@ -13,22 +13,29 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Security, Trustworthy Agents, and Skill Governance
 
 + [Structured Security Auditing and Robustness Enhancement for Untrusted Agent Skills](https://arxiv.org/abs/2604.25109v1)  
-  arXiv: https://arxiv.org/abs/2604.25109v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25109v1)
   2026-04-28
 
 + [AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents](https://arxiv.org/abs/2604.24657v1)  
-  arXiv: https://arxiv.org/abs/2604.24657v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24657v1)
   GitHub: https://github.com/FIND-Lab/AgentWard
   2026-04-27
 
 + [Poster: ClawdGo: Endogenous Security Awareness Training for Autonomous AI Agents](https://arxiv.org/abs/2604.24020v1)  
-  arXiv: https://arxiv.org/abs/2604.24020v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24020v1)
   2026-04-27
 
 + [enclawed: A Configurable, Sector-Neutral Hardening Framework for Single-User AI Assistant Gateways](https://arxiv.org/abs/2604.16838v1)  
-  arXiv: https://arxiv.org/abs/2604.16838v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.16838v1)
   2026-04-18
 
++ [Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX](https://arxiv.org/abs/2604.14858v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.14858v1)
+  2026-04-16
+
++ [SoK: Security of Autonomous LLM Agents in Agentic Commerce](https://arxiv.org/abs/2604.15367v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.15367v1)
+  2026-04-15
 + [Beyond Static Sandboxing: Learned Capability Governance for Autonomous AI Agents](https://arxiv.org/abs/2604.11839v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11839v1)
   2026-04-12
@@ -198,9 +205,13 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, Evaluation, and Self-Evolving Skills
 
-+ [Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX](https://arxiv.org/abs/2604.14858v1)  
-  arXiv: https://arxiv.org/abs/2604.14858v1
-  2026-04-16
++ [StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2604.18401v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.18401v1)
+  2026-04-20
+
++ [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406v2)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.17406v2)
+  2026-04-19
 
 + [Knowledge Compounding: An Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework](https://arxiv.org/abs/2604.11243v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11243v1)
@@ -250,11 +261,15 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   2026-04-24
 
 + [The Platform Is Mostly Not a Platform: Token Economies and Agent Discourse on Moltbook](https://arxiv.org/abs/2604.21295v1)  
-  arXiv: https://arxiv.org/abs/2604.21295v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.21295v1)
   2026-04-23
 
 + [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925v1)  
-  arXiv: https://arxiv.org/abs/2604.19925v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19925v1)
+  2026-04-21
+
++ [ClawCoin: An Agentic AI-Native Cryptocurrency for Decentralized Agent Economies](https://arxiv.org/abs/2604.19026v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19026v1)
   2026-04-21
 
 + [Governance by Design: A Parsonian Institutional Architecture for Internet-Wide Agent Societies](https://arxiv.org/abs/2604.11337v1)  
@@ -347,6 +362,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.11375v1)
   2026-03-11
 
++ [What Do AI Agents Talk About? Discourse and Architectural Constraints in the First AI-Only Social Network](https://arxiv.org/abs/2603.07880v3)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.07880v3)
+  2026-03-09
+
++ [MoltGraph: A Longitudinal Temporal Graph Dataset of Moltbook for Coordinated-Agent Detection](https://arxiv.org/abs/2603.00646v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00646v1)
+  2026-02-28
+
 + [Let There Be Claws: An Early Social Network Analysis of AI Agents on Moltbook](https://arxiv.org/abs/2602.20044v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20044v1)
   2026-02-24
@@ -354,6 +377,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [Moltbook Observatory (2026): Playground to Super Highway in the Autonomy Era – Measuring Representation Lag in Tool-Using Agentic Ecosystems](https://doi.org/10.21203/rs.3.rs-8971396/v1)  
   GitHub: https://github.com/kelkalot/moltbook-observatory-paper
   2026-02-27
+
++ [Interaction Theater: A case of LLM Agents Interacting at Scale](https://arxiv.org/abs/2602.20059v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20059v1)
+  2026-02-23
 
 + [From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science](https://arxiv.org/abs/2602.19810v3)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.19810v3)
