@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [enclawed: A Configurable, Sector-Neutral Hardening Framework for Single-User AI Assistant Gateways](https://arxiv.org/abs/2604.16838v1)  
+  arXiv: https://arxiv.org/abs/2604.16838v1
+  2026-04-18
+
 + [Beyond Static Sandboxing: Learned Capability Governance for Autonomous AI Agents](https://arxiv.org/abs/2604.11839v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11839v1)
   2026-04-12
@@ -223,6 +227,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications, Human Factors, and Agent Society
+
++ [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925v1)  
+  arXiv: https://arxiv.org/abs/2604.19925v1
+  2026-04-21
 
 + [Governance by Design: A Parsonian Institutional Architecture for Internet-Wide Agent Societies](https://arxiv.org/abs/2604.11337v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11337v1)
