@@ -228,6 +228,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Applications, Human Factors, and Agent Society
 
++ [The Platform Is Mostly Not a Platform: Token Economies and Agent Discourse on Moltbook](https://arxiv.org/abs/2604.21295v1)  
+  arXiv: https://arxiv.org/abs/2604.21295v1
+  2026-04-23
+
 + [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925v1)  
   arXiv: https://arxiv.org/abs/2604.19925v1
   2026-04-21
