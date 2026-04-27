@@ -153,6 +153,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## System Architecture, Resource Management, and Infrastructure
 
++ [QuantClaw: Precision Where It Matters for OpenClaw](https://arxiv.org/abs/2604.22577v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.22577v1)
+  2026-04-24
+
 + [SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering](https://arxiv.org/abs/2604.11548v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11548v1)
   2026-04-13
@@ -227,6 +231,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications, Human Factors, and Agent Society
+
++ [Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents](https://arxiv.org/abs/2604.22452v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.22452v1)
+  2026-04-24
 
 + [The Platform Is Mostly Not a Platform: Token Economies and Agent Discourse on Moltbook](https://arxiv.org/abs/2604.21295v1)  
   arXiv: https://arxiv.org/abs/2604.21295v1
