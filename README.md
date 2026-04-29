@@ -12,6 +12,15 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents](https://arxiv.org/abs/2604.24657v1)  
+  arXiv: https://arxiv.org/abs/2604.24657v1
+  GitHub: https://github.com/FIND-Lab/AgentWard
+  2026-04-27
+
++ [Poster: ClawdGo: Endogenous Security Awareness Training for Autonomous AI Agents](https://arxiv.org/abs/2604.24020v1)  
+  arXiv: https://arxiv.org/abs/2604.24020v1
+  2026-04-27
+
 + [enclawed: A Configurable, Sector-Neutral Hardening Framework for Single-User AI Assistant Gateways](https://arxiv.org/abs/2604.16838v1)  
   arXiv: https://arxiv.org/abs/2604.16838v1
   2026-04-18
