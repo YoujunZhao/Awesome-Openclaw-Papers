@@ -177,6 +177,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.22577v1)
   2026-04-24
 
++ [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.14228v1)
+  2026-04-14
+
 + [SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering](https://arxiv.org/abs/2604.11548v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11548v1)
   2026-04-13
@@ -272,6 +276,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19026v1)
   2026-04-21
 
++ [EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution](https://arxiv.org/abs/2604.12776v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.12776v1)
+  2026-04-14
+
 + [Governance by Design: A Parsonian Institutional Architecture for Internet-Wide Agent Societies](https://arxiv.org/abs/2604.11337v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11337v1)
   2026-04-13
@@ -279,6 +287,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 + [ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents](https://arxiv.org/abs/2604.10096v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.10096v1)
   2026-04-11
+
++ [AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power](https://arxiv.org/abs/2604.07007v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.07007v1)
+  2026-04-08
 
 + [The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns](https://arxiv.org/abs/2604.06076v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06076v1)
@@ -292,16 +304,16 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01708v1)
   2026-04-02
 
++ [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](https://arxiv.org/abs/2604.00518v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00518v1)
+  2026-04-01
+
 + [Claw4Science: A Dataset and Platform for the OpenClaw Scientific Agent Ecosystem](https://doi.org/10.64898/2026.03.30.715118)  
   GitHub: https://github.com/bajwa82mna/claw4science
   2026-04-01
 
 + [AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01487v1)
-  2026-04-01
-
-+ [Do Agents Repair When Challenged -- or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum](https://arxiv.org/abs/2604.00518v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00518v1)
   2026-04-01
 
 + [Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders](https://arxiv.org/abs/2603.27104v1)  
@@ -324,9 +336,6 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.18349v2)
   2026-03-18
 
-+ [Agentic Modelling Pipeline: Reproducible Rapid Stormwater Modelling Management System with OpenClaw](https://doi.org/10.31223/x5f47g)  
-  2026-03-17
-
 + [When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education](https://arxiv.org/abs/2603.16663v2)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16663v2)
   2026-03-17
@@ -343,11 +352,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.13052v1)
   2026-03-17
 
-+ [Emergent decentralized regulation in a purely synthetic society](https://arxiv.org/abs/2604.06199v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06199v1)
-  2026-03-13
++ [Agentic Modelling Pipeline: Reproducible Rapid Stormwater Modelling Management System with OpenClaw](https://doi.org/10.31223/x5f47g)  
+  2026-03-17
 
 + [OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild](https://doi.org/10.20944/preprints202603.1060.v1)  
+  2026-03-13
+
++ [Emergent decentralized regulation in a purely synthetic society](https://arxiv.org/abs/2604.06199v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06199v1)
   2026-03-13
 
 + [When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows](https://arxiv.org/abs/2603.11721v2)  
@@ -370,13 +382,13 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00646v1)
   2026-02-28
 
-+ [Let There Be Claws: An Early Social Network Analysis of AI Agents on Moltbook](https://arxiv.org/abs/2602.20044v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20044v1)
-  2026-02-24
-
 + [Moltbook Observatory (2026): Playground to Super Highway in the Autonomy Era – Measuring Representation Lag in Tool-Using Agentic Ecosystems](https://doi.org/10.21203/rs.3.rs-8971396/v1)  
   GitHub: https://github.com/kelkalot/moltbook-observatory-paper
   2026-02-27
+
++ [Let There Be Claws: An Early Social Network Analysis of AI Agents on Moltbook](https://arxiv.org/abs/2602.20044v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20044v1)
+  2026-02-24
 
 + [Interaction Theater: A case of LLM Agents Interacting at Scale](https://arxiv.org/abs/2602.20059v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20059v1)
