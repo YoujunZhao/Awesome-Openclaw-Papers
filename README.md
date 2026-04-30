@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [Structured Security Auditing and Robustness Enhancement for Untrusted Agent Skills](https://arxiv.org/abs/2604.25109v1)  
+  arXiv: https://arxiv.org/abs/2604.25109v1
+  2026-04-28
+
 + [AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents](https://arxiv.org/abs/2604.24657v1)  
   arXiv: https://arxiv.org/abs/2604.24657v1
   GitHub: https://github.com/FIND-Lab/AgentWard
