@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [Security Attack and Defense Strategies for Autonomous Agent Frameworks: A Layered Review with OpenClaw as a Case Study](https://arxiv.org/abs/2604.27464v1)  
+  arXiv: https://arxiv.org/abs/2604.27464v1
+  2026-04-30
+
 + [Structured Security Auditing and Robustness Enhancement for Untrusted Agent Skills](https://arxiv.org/abs/2604.25109v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25109v1)
   2026-04-28
@@ -259,6 +263,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications, Human Factors, and Agent Society
+
++ [The Synthetic Social Graph: Emergent Behavior in AI Agent Communities](https://arxiv.org/abs/2604.27271v1)  
+  arXiv: https://arxiv.org/abs/2604.27271v1
+  2026-04-29
 
 + [Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents](https://arxiv.org/abs/2604.22452v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.22452v1)
