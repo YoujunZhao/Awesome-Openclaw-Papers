@@ -13,20 +13,20 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Security, Trustworthy Agents, and Skill Governance
 
 + [Security Attack and Defense Strategies for Autonomous Agent Frameworks: A Layered Review with OpenClaw as a Case Study](https://arxiv.org/abs/2604.27464v1)  
-  arXiv: https://arxiv.org/abs/2604.27464v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27464v1)
   2026-04-30
 
 + [Structured Security Auditing and Robustness Enhancement for Untrusted Agent Skills](https://arxiv.org/abs/2604.25109v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25109v1)
   2026-04-28
 
++ [Poster: ClawdGo: Endogenous Security Awareness Training for Autonomous AI Agents](https://arxiv.org/abs/2604.24020v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24020v1)
+  2026-04-27
+
 + [AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents](https://arxiv.org/abs/2604.24657v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24657v1)
   GitHub: https://github.com/FIND-Lab/AgentWard
-  2026-04-27
-
-+ [Poster: ClawdGo: Endogenous Security Awareness Training for Autonomous AI Agents](https://arxiv.org/abs/2604.24020v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24020v1)
   2026-04-27
 
 + [enclawed: A Configurable, Sector-Neutral Hardening Framework for Single-User AI Assistant Gateways](https://arxiv.org/abs/2604.16838v1)  
@@ -265,7 +265,7 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ## Applications, Human Factors, and Agent Society
 
 + [The Synthetic Social Graph: Emergent Behavior in AI Agent Communities](https://arxiv.org/abs/2604.27271v1)  
-  arXiv: https://arxiv.org/abs/2604.27271v1
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27271v1)
   2026-04-29
 
 + [Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents](https://arxiv.org/abs/2604.22452v1)  
@@ -276,12 +276,12 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.21295v1)
   2026-04-23
 
-+ [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925v1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19925v1)
-  2026-04-21
-
 + [ClawCoin: An Agentic AI-Native Cryptocurrency for Decentralized Agent Economies](https://arxiv.org/abs/2604.19026v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19026v1)
+  2026-04-21
+
++ [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925v1)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19925v1)
   2026-04-21
 
 + [EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution](https://arxiv.org/abs/2604.12776v1)  
