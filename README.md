@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [Architectural Obsolescence of Unhardened Agentic-AI Runtimes](https://arxiv.org/abs/2605.01740v1)  
+  arXiv: https://arxiv.org/abs/2605.01740v1
+  2026-05-03
+
 + [Security Attack and Defense Strategies for Autonomous Agent Frameworks: A Layered Review with OpenClaw as a Case Study](https://arxiv.org/abs/2604.27464v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27464v1)
   2026-04-30
@@ -212,6 +216,11 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Memory, Learning, Evaluation, and Self-Evolving Skills
+
++ [AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661v1)  
+  arXiv: https://arxiv.org/abs/2605.02661v1
+  GitHub: https://github.com/GAIR-NLP/AcademiClaw
+  2026-05-04
 
 + [StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2604.18401v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.18401v1)
