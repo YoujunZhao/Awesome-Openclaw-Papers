@@ -217,6 +217,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Memory, Learning, Evaluation, and Self-Evolving Skills
 
++ [MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents](https://arxiv.org/abs/2605.03675v1)  
+  arXiv: https://arxiv.org/abs/2605.03675v1
+  2026-05-05
+
 + [AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661v1)  
   arXiv: https://arxiv.org/abs/2605.02661v1
   GitHub: https://github.com/GAIR-NLP/AcademiClaw
