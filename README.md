@@ -12,6 +12,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation](https://arxiv.org/abs/2605.06393v1)  
+  arXiv: https://arxiv.org/abs/2605.06393v1
+  2026-05-07
+
 + [Architectural Obsolescence of Unhardened Agentic-AI Runtimes](https://arxiv.org/abs/2605.01740v1)  
   arXiv: https://arxiv.org/abs/2605.01740v1
   2026-05-03
@@ -276,6 +280,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications, Human Factors, and Agent Society
+
++ [X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://arxiv.org/abs/2605.05765v1)  
+  arXiv: https://arxiv.org/abs/2605.05765v1
+  2026-05-07
 
 + [The Synthetic Social Graph: Emergent Behavior in AI Agent Communities](https://arxiv.org/abs/2604.27271v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27271v1)
