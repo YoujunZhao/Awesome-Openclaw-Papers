@@ -12,6 +12,14 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## Security, Trustworthy Agents, and Skill Governance
 
++ [Towards Security-Auditable LLM Agents: A Unified Graph Representation](https://arxiv.org/abs/2605.06812v1)  
+  arXiv: https://arxiv.org/abs/2605.06812v1
+  2026-05-07
+
++ [When Routine Chats Turn Toxic: Unintended Long-Term State Poisoning in Personalized Agents](https://arxiv.org/abs/2605.06731v1)  
+  arXiv: https://arxiv.org/abs/2605.06731v1
+  2026-05-07
+
 + [Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation](https://arxiv.org/abs/2605.06393v1)  
   arXiv: https://arxiv.org/abs/2605.06393v1
   2026-05-07
@@ -280,6 +288,10 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 ---
 
 ## Applications, Human Factors, and Agent Society
+
++ [The Moltbook Files: A Harmless Slopocalypse or Humanity's Last Experiment](https://arxiv.org/abs/2605.07462v1)  
+  arXiv: https://arxiv.org/abs/2605.07462v1
+  2026-05-08
 
 + [X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://arxiv.org/abs/2605.05765v1)  
   arXiv: https://arxiv.org/abs/2605.05765v1
