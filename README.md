@@ -193,6 +193,11 @@ A curated list of ArXiv papers related to **OpenClaw** (agent systems, security,
 
 ## System Architecture, Resource Management, and Infrastructure
 
++ [EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.17816)
+  [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/EC2-Bench?style=social)](https://github.com/OpenBMB/EC2-Bench)
+  2026-10-13
+
 + [QuantClaw: Precision Where It Matters for OpenClaw](https://arxiv.org/abs/2604.22577v1)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.22577v1)
   2026-04-24
